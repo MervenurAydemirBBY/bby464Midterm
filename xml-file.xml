@@ -1,0 +1,405 @@
+
+<xml version="1.0" encoding="UTF-8">
+
+
+<bookShop>
+
+    <books>
+        
+         
+        <book>
+            <bookID>1</bookID>
+            <bookName>Tutunamayanlar</bookName>
+            <publishingDate>2014</publishingDate>
+            <bookEdition>80</bookEdition>
+            <ISBN>978-9754700114</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>724</page>
+            <authorName>Oğuz Atay</authorName>
+            <publisherName>İletişim Yayınları</publisherName>
+        </book>
+        
+        <book>
+            <bookID>2</bookID>
+            <bookName>Tehlikeli Oyunlar</bookName>
+            <publishingDate>2010</publishingDate>
+            <bookEdition>36</bookEdition>
+            <ISBN>978-9754702095</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>479</page>
+            <authorName>Oğuz Atay</authorName>
+            <publisherName>İletişim Yayınları</publisherName>
+        </book>
+        
+          
+        <book>
+            <bookID>3</bookID>
+            <bookName>Günlük</bookName>
+            <publishingDate>2016</publishingDate>
+            <bookEdition>22</bookEdition>
+            <ISBN>978-9754700354</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>302</page>
+            <authorName>Oğuz Atay</authorName>
+            <publisherName>İletişim Yayınları</publisherName>
+        </book>
+        
+        <book>
+            <bookID>4</bookID>
+            <bookName>Deli Çocuğun Güncesi</bookName>
+            <publishingDate>2016</publishingDate>
+            <bookEdition>2</bookEdition>
+            <ISBN>978-6054994076</ISBN>
+            <bookType>deneme</bookType>
+            <Language>Türkçe</Language>
+            <page>302</page>
+            <authorName>Özgür Bacaksız</authorName>
+            <publisherName>Destek Yayınları</publisherName>
+        </book>
+        
+        <book>
+            <bookID>5</bookID>
+            <bookName>Mutsuz Çocuklar Ülkesi</bookName>
+            <publishingDate>2016</publishingDate>
+            <bookEdition>1</bookEdition>
+            <ISBN>978-6053110736</ISBN>
+            <bookType>deneme</bookType>
+            <Language>Türkçe</Language>
+            <page>144</page>
+            <authorName>Özgür Bacaksız</authorName>
+            <publisherName>Destek Yayınları</publisherName>
+        </book>
+        
+        <book>
+            <bookID>6</bookID>
+            <bookName>Twilight</bookName>
+            <publishingDate>2006</publishingDate>
+            <bookEdition>14</bookEdition>
+            <ISBN>978-0316015844</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>544</page>
+            <authorName>Stephenie Meyer</authorName>
+            <publisherName>Little Brown</publisherName>
+        </book>
+        
+        <book>
+            <bookID>7</bookID>
+            <bookName>New Moon</bookName>
+            <publishingDate>2008</publishingDate>
+            <bookEdition>1</bookEdition>
+            <ISBN>978-0316024969</ISBN>
+            <bookType>roman</bookType>
+            <Language>İngilizce</Language>
+            <page>563</page>
+            <authorName>Stephenie Meyer</authorName>
+            <publisherName>Little Brown</publisherName>
+        </book>
+        
+        <book>
+            <bookID>8</bookID>
+            <bookName>Breaking Dawn </bookName>
+            <publishingDate>2010</publishingDate>
+            <bookEdition>25</bookEdition>
+            <ISBN>978-0316067935</ISBN>
+            <bookType>roman</bookType>
+            <Language>İngilizce</Language>
+            <page>768</page>
+            <authorName>Stephenie Meyer</authorName>
+            <publisherName>Little Brown</publisherName>
+        </book>
+        
+        
+        
+         <book> 
+       
+            <bookID>9</bookID>
+            <bookName>Nar Ağacı</bookName>
+            <publishingDate>2016</publishingDate>
+            <bookEdition>19</bookEdition>
+            <ISBN>978-6050807073</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>536</page>
+            <authorName>Nazan Bekiroğlu</authorName>
+            <publishername>Timaş Yayınları</publishername>
+        </book> 
+        
+        
+        <book>
+            <bookID>10</bookID>
+            <bookName>Mücella</bookName>
+            <publishingDate>2016</publishingDate>
+            <bookEdition>3</bookEdition>
+            <ISBN>978-9754941883</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>344</page>
+            <authorName>Nazan Bekiroğlu</authorName>
+            <publisherName>Timaş Yayınları</publisherName>
+        </book>
+        
+        <book>
+            <bookID>11</bookID>
+            <bookName>Mor Mürekkep</bookName>
+            <publishingDate>2016</publishingDate>
+            <bookEdition>23</bookEdition>
+            <ISBN>978-9753626880</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>224</page>
+            <authorName>Nazan Bekiroğlu</authorName>
+            <publisherName>Timaş Yayınları</publisherName>
+        </book>
+        
+        
+        <book>
+            <bookID>12</bookID>
+            <bookName>Ateşten Gömlek</bookName>
+            <publishingDate>2017</publishingDate>
+            <bookEdition>7</bookEdition>
+            <ISBN>9750723216</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>208</page>
+            <authorName>Halide Edib Adıvar</authorName>
+            <publisherName>Can Yayınları</publisherName>
+        </book>
+        
+        
+        <book>
+            <bookID>13</bookID>
+            <bookName>Vurun Kahpeye</bookName>
+            <publishingDate>2014</publishingDate>
+            <bookEdition>18</bookEdition>
+            <ISBN>9750721670</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>217</page>
+            <authorName>Halide Edip Adıvar</authorName>
+            <publisherName>Can Yayınları</publisherName>
+        </book>
+        
+        
+          <book>
+            <bookID>14</bookID>
+            <bookName>İçimizdeki Şeytan</bookName>
+            <publishingDate>2017</publishingDate>
+            <bookEdition>46</bookEdition>
+            <ISBN>978-9753638036</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>137</page>
+            <authorName>Sabahattin Ali</authorName>
+            <publisherName>Yapı Kredi Yyınları</publisherName>
+        </book>
+        
+       
+        
+        <book>
+            <bookID>15</bookID>
+            <bookName>Değirmen</bookName>
+            <publishingDate>2017</publishingDate>
+            <bookEdition>28</bookEdition>
+            <ISBN>9750806605</ISBN>
+            <bookType>roman</bookType>
+            <Language>Türkçe</Language>
+            <page>137</page>
+            <authorName>Sabahattin Ali</authorName>
+            <publisherName>Yapı Kredi Yayınları</publisherName>
+        </book>
+        
+    </books>
+    
+    
+    <authors>
+        
+         <author gender="male">
+            <authorID>1</authorID>
+            <authorName>Oğuz</authorName>
+            <authorSurname>Atay</authorSurname>
+            <birthDate>1934</birthDate>
+            <deathDate>1977</deathDate>
+            <country>Türkiye</country>
+            <city>Kastamonu</city>
+            <language>Türkçe</language>
+        </author>
+        
+        
+         <author gender="male">
+            <authorID>2</authorID>
+            <authorName>Özgür</authorName>
+            <authorSurname>Bacaksız</authorSurname>
+            <birthDate>1987</birthDate>
+            <deathDate>?</deathDate>
+            <country>Türkiye</country>
+            <city>Diyarbakır</city>
+            <language>Türkçe</language>
+        </author>
+        
+        
+        
+         
+        <author gender="female">
+            <authorID>3</authorID>
+            <authorName>Stephenie</authorName>
+            <authorSurname>Meyer</authorSurname>
+            <birthDate>1973</birthDate>
+            <deathDate>?</deathDate>
+            <country>Amerika</country>
+            <city>Hartford</city>
+            <language>İngilizce</language>
+        </author>
+        
+        
+        <author gender="female">
+            <authorID>4</authorID>
+            <authorName>Nazan</authorName>
+            <authorSurname>Bekiroğlu</authorSurname>
+            <birthDate>5.3.1957</birthDate>
+            <deathDate>?</deathDate>
+            <country>Türkiye</country>
+            <city>Trabzon</city>
+            <language>Türkçe</language>
+        </author>
+        
+          <author gender="female">
+            <authorID>5</authorID>
+            <authorName>Halide Edib</authorName>
+            <authorSurname>Adıvar</authorSurname>
+            <birthDate>1882</birthDate>
+            <deathDate>9.1.1964</deathDate>
+            <country>Türkiye</country>
+            <city>İstanbul</city>
+            <language>Türkçe</language>
+            <bookName>Sinekli Bakkal</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>6</authorID>
+            <authorName>Sabahattin</authorName>
+            <authorSurname>Ali</authorSurname>
+            <birthDate>25.2.1907</birthDate>
+            <deathDate>2.4.1948</deathDate>
+            <country>Bulgaristan</country>
+            <city>Eğridere</city>
+            <language>Türkçe</language>
+        </author>
+        
+    </authors>
+    
+    
+    <publishers>
+        <publisher>
+            <publisherID>4</publisherID>
+            <publisherName>Timaş</publisherName>
+            <publisherNumber>0212 511 24 24</publisherNumber>
+        </publisher>
+        
+         <publisher>
+            <publisherID>5</publisherID>
+            <publisherName>Can</publisherName>
+            <publisherNumber>0212 252 56 75</publisherNumber>
+        </publisher>
+        
+        
+        <publisher>
+            <publisherID>6</publisherID>
+            <publisherName>Yapı Kredi</publisherName>
+            <publisherNumber>0312 435 85 94</publisherNumber>
+        </publisher>
+        
+        <publisher>
+            <publisherID>1</publisherID>
+            <publisherName>İletişim</publisherName>
+            <publisherNumber>0212 516 22 60 </publisherNumber>
+        </publisher>
+        
+        <publisher>
+            <publisherID>2</publisherID>
+            <publisherName>Destek</publisherName>
+            <publisherNumber>0212 252 2242</publisherNumber>
+        </publisher>
+        
+        <publisher>
+            <publisherID>3</publisherID>
+            <publisherName>Little Brown</publisherName>
+            <publisherNumber>(1)(212) 364 1100</publisherNumber>
+        </publisher>
+        
+    </publishers>
+    
+    
+    
+    <adresses>
+        
+        <adress>
+            <adressID>1</adressID>
+            <district>?</district>
+            <street>Binbirdirek Meydanı</street>
+            <doorNumber>?</doorNumber>
+            <locality>Fatih</locality>
+            <province>İstanbul</province>
+        </adress>
+        
+        <adress>
+            <adressID>2</adressID>
+            <district>Harbiye</district>
+            <street>Ihlamur Nişantaşı Yolu</street>
+            <doorNumber>31</doorNumber>
+            <locality>Şişli</locality>
+            <province>İstanbul</province>
+        </adress>
+        
+        <adress>
+            <adressID>4</adressID>
+            <district>Alemdar</district>
+            <street>Alayköşkü</street>
+            <doorNumber>5</doorNumber>
+            <locality>Fatih</locality>
+            <province>İstanbul</province>
+        </adress>
+        
+          <adress>
+            <adressID>5</adressID>
+            <district>Kültür</district>
+            <street>Meşrutiyet</street>
+            <doorNumber>46</doorNumber>
+            <locality>Çankaya</locality>
+            <province>Ankara</province>
+        </adress>
+        
+        <adress>
+            <adressID>6</adressID>
+            <district>Kızılay</district>
+            <street>Atatürk</street>
+            <doorNumber>93</doorNumber>
+            <locality>Çankaya</locality>
+            <province>Ankara</province>
+        </adress>
+        
+        
+        
+      
+        
+        <adress>
+            <adressID>3</adressID>
+            <district>50 Victoria Embankment</district>
+            <street>-</street>
+            <doorNumber>-</doorNumber>
+            <locality>İngiltere</locality>
+            <province>Londra</province>
+        </adress>
+        
+        
+     </adresses>
+    
+    
+    
+    
+    </bookShop>
+
+ 

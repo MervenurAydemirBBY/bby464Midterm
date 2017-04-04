@@ -1,0 +1,194 @@
+<xml version="1.0" encoding="UTF-8">
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"              
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+
+
+<rdf:Description rdf:about="Tutunamayanlar">
+  <dc:title>Tutunamayanlar</dc:title>
+  <dc:creator>Oğuz Atay</dc:creator>
+  <dc:date>2014</dc:date>
+  <dc:isVersionOf>80. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-9754700114</dc:identifier>
+  <dc:publisher>Destek Yayınları</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>724</dc:sizeOrDuration>
+  <dc:language>Tü
+    rkçe</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="Tehlikeli Oyunlar">
+  <dc:title>Tehlikeli Oyunlar</dc:title>
+  <dc:creator>Oğuz Atay</dc:creator>
+  <dc:date>2010</dc:date>
+  <dc:isVersionOf>36. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-9754702095</dc:identifier>
+  <dc:publisher>İletişim Yayınları</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>479 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Günlük">
+  <dc:title>Günlük</dc:title>
+  <dc:creator>Oğuz Atay</dc:creator>
+  <dc:date>2016</dc:date>
+  <dc:isVersionOf>22. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-9754700354</dc:identifier>
+  <dc:publisher>İletişim Yayınları</dc:publisher>
+  <dc:format>Günlük</dc:format>
+  <dc:sizeOrDuration>302 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+
+<rdf:Description rdf:about="Deli Çocuğun Güncesi">
+  <dc:title>Deli Çocuğun Güncesi</dc:title>
+  <dc:creator>Özgür Bacaksız</dc:creator>
+  <dc:date>2016</dc:date>
+  <dc:isVersionOf>2. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-6054994076</dc:identifier>
+  <dc:publisher>Destek Yayınları</dc:publisher>
+  <dc:format>Deneme</dc:format>
+  <dc:sizeOrDuration>302 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+
+    
+<rdf:Description rdf:about="Mutsuz Çocuklar Ülkesi">
+  <dc:title>Mutsuz Çocuklar Ülkesi</dc:title>
+  <dc:creator>Özgür Bacaksız</dc:creator>
+  <dc:date>2016</dc:date>
+  <dc:isVersionOf>1. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-6053110736</dc:identifier>
+  <dc:publisher>Doğan Yayınları</dc:publisher>
+  <dc:format>Deneme</dc:format>
+  <dc:sizeOrDuration>144 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Twilight">
+  <dc:title>Twilight</dc:title>
+  <dc:creator>Stephenie Meyer</dc:creator>
+  <dc:date>206</dc:date>
+  <dc:isVersionOf>14. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-0316015844</dc:identifier>
+  <dc:publisher>Little Brown</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>544 s.</dc:sizeOrDuration>
+  <dc:language>İngilizce</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="New Moon">
+  <dc:title>New Moon</dc:title>
+  <dc:creator>Stephenie Meyer</dc:creator>
+  <dc:date>2008</dc:date>
+  <dc:isVersionOf>1. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-0316024969</dc:identifier>
+  <dc:publisher>Little Brown</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>563 s.</dc:sizeOrDuration>
+  <dc:language>İngilizce</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Breaking Dawn ">
+  <dc:title>Breaking Dawn </dc:title>
+  <dc:creator>Cengiz Aytmatov</dc:creator>
+  <dc:date>2010</dc:date>
+  <dc:isVersionOf>25. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-0316067935</dc:identifier>
+  <dc:publisher>Little Brown</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>768 s.</dc:sizeOrDuration>
+  <dc:language>İngilizce</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="Nar Ağacı">
+  <dc:title>Nar Ağacı</dc:title>
+  <dc:creator>Nazan Bekiroğlu</dc:creator>
+  <dc:date>2016</dc:date>
+  <dc:isVersionOf>19. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-6050807073</dc:identifier>
+  <dc:publisher>Timaş Yayınları</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>576 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Mücella">
+  <dc:title>Mücella</dc:title>
+  <dc:creator>Nazan Bekiroğlu</dc:creator>
+  <dc:date>2016</dc:date>
+  <dc:isVersionOf>3. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-9754941883</dc:identifier>
+  <dc:publisher>Timaş Yayınları</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>344 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Mor Mürekkep">
+  <dc:title>Mor Mürekkep </dc:title>
+  <dc:creator>Nazan Bekiroğlu</dc:creator>
+  <dc:date>2016</dc:date>
+  <dc:isVersionOf>23. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN:978-9753626880</dc:identifier>
+  <dc:publisher>Timaş Yayınları</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>224 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Ateşten Gömlek">
+  <dc:title>Ateşten Gömlek</dc:title>
+  <dc:creator>Halide Edip Adıvar</dc:creator>
+  <dc:date>2017</dc:date>
+  <dc:isVersionOf>7. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 9750723216</dc:identifier>
+  <dc:publisher>Can Yayınları</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>208 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Vurun Kahpeye">
+  <dc:title>Vurun Kahpeye</dc:title>
+  <dc:creator>Halide Edip Adıvar</dc:creator>
+  <dc:date>2014</dc:date>
+  <dc:isVersionOf>18. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN:9750721670</dc:identifier>
+  <dc:publisher>Can Yayınları</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>217 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="İçimizdeki Şeytan>
+  <dc:title>İçimizdeki Şeytan</dc:title>
+  <dc:creator>Sabahattin Ali</dc:creator>
+  <dc:date>2017</dc:date>
+  <dc:isVersionOf>46. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN:978-9753638036</dc:identifier>
+  <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>137 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Değirmen">
+  <dc:title>Değirmen</dc:title>
+  <dc:creator>Sabahattin Ali</dc:creator>
+  <dc:date>2017</dc:date>
+  <dc:isVersionOf>28. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 9750806605</dc:identifier>
+  <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+  <dc:format>roman</dc:format>
+  <dc:sizeOrDuration>137 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+
+</rdf:RDF>
